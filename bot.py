@@ -7,7 +7,7 @@ BOT_TOKEN = "8325912903:AAHYb-xLVI-JXWl3dc6_P8x2WwpqA_siA3g"
 
 # السؤال والإجابة
 QUESTION = "what's the Smart door system comniection smart door system - communicate group password?"
-CORRECT_ANSWER = "19201"
+CORRECT_ANSWER = "1944"
 TIME_LIMIT = 30  # بالثواني
 
 # نخزن مؤقت العضو الجديد
@@ -58,4 +58,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
